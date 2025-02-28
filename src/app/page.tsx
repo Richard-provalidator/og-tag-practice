@@ -40,7 +40,7 @@ export default function Home() {
       </p>
       <div className="mt-8">
         <img
-          src="/sample.jpg"
+          src="/sample.png"
           alt="Sample Image for Social Sharing"
           className="w-full max-w-md rounded-lg shadow-lg"
         />
