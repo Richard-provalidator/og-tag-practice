@@ -17,6 +17,12 @@ export const metadata: Metadata = {
       },
     ],
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "파란색 곰",
+    description: "파란색 곰 이미지입니다. :)",
+    images: ["/image.png"],
+  },
 };
 
 export default function Home() {
